@@ -19,4 +19,4 @@ UI: Streamlit,
 Programming language: Python,
 OpenAI Model: Ada
 
-URL: Will be added soon....
+Website: https://gidiai.streamlit.app
