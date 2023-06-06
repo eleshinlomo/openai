@@ -90,7 +90,7 @@ def main():
         st.session_state.chat_history = None
 
     st.header("INTERRACTIVE PDF CHATBOT :books:")
-    st.subheader("Never have to read through bunch of documents anaymore. Ask this bot about everything in your document.")
+    st.subheader("Never have to read through bunch of documents anymore. Ask this bot about everything in your document.")
     user_question = st.text_input("Upload your PDF Document on the left and ask a question about your document here: ")
     if user_question:
         handle_userinput(user_question)
